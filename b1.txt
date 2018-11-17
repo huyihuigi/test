@@ -3,5 +3,5 @@ public class B1 {
     psvm;
     f2 change;
     f1 change;
-
+    f1 change;
 }
